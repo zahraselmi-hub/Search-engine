@@ -1,2 +1,2 @@
-# Search-ingine-
-This mini project is about a search ingine for an image 
+# Search-ingine
+This mini project is about a search ingine for an image using the histogram
